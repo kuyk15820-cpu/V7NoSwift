@@ -55,7 +55,7 @@
             @{@"title": appName, @"bundle": bundleID, @"version": fullVersion, @"build_time": buildTimeStr}
         ],
         [NSString stringWithUTF8String:AY_OBFUSCATE("CREDITS")]: @[
-            @{@"title": [NSString stringWithUTF8String:AY_OBFUSCATE("F1X3R")], @"subtitle_val": [NSString stringWithUTF8String:AY_OBFUSCATE("Developer from TGS Team")], @"icon": @"person.badge.code.fill"}
+            @{@"title": [NSString stringWithUTF8String:AY_OBFUSCATE("F1X3R")], @"subtitle_val": [NSString stringWithUTF8String:AY_OBFUSCATE("Developer from TGS Team")], @"icon": @"person.crop.circle"}
         ]
     };
     
